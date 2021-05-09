@@ -13,5 +13,5 @@ The app consists of 2 activities:
 
 ## Additional Info
 
-The mini-project was created by following the **Build your first app** section of the official Android Developer DOcumentation:
+The mini-project was created by following the **Build your first app** section of the official Android Developer Documentation:
 https://developer.android.com/training/basics/firstapp
