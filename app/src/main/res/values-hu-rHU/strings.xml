@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Első alkalmazásom</string>
+    <string name="button_send">Küldés</string>
+    <string name="edit_message">Szöveg módosítása</string>
+    <string name="message_label">Az Ön üzenete:</string>
+</resources>
