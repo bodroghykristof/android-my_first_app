@@ -1,4 +1,4 @@
-# android-my_first_app
+# My First Android App
 
 ## Introduction
 
